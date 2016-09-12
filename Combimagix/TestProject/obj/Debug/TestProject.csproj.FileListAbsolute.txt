@@ -1,0 +1,8 @@
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\bin\Debug\TestProject.exe
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\bin\Debug\TestProject.pdb
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\bin\Debug\Combimagix.dll
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\bin\Debug\Combimagix.pdb
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\obj\Debug\TestProject.exe
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\TestProject\obj\Debug\TestProject.pdb

@@ -1,0 +1,5 @@
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\Combimagix\bin\Debug\Combimagix.dll
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\Combimagix\bin\Debug\Combimagix.pdb
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\Combimagix\obj\Debug\Combimagix.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\Combimagix\obj\Debug\Combimagix.dll
+C:\Users\João\Desktop\Conhecimento e Educação\Matemática\2 Aritmética, Álgebra e Cálculo\Combimagix\Combimagix\obj\Debug\Combimagix.pdb
